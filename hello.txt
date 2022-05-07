@@ -16,3 +16,7 @@ Hello cjppom
 6666
 m test
 h test
+public static void main(String []argd){
+Scanner input =new Scanner(System.in);
+input.next()-;
+}
